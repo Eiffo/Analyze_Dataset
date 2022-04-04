@@ -12,7 +12,7 @@ Project is created with:
 	
 ## Setup
 To run this project, install it locally.
-What you need to install to run project:
+What you need, to run project:
 
 ```
 install python
